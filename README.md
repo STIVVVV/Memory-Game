@@ -1,2 +1,2 @@
 # Memory-Game
-Basic memory game that was made with javascript
+Basic memory game that was made with JavaScript
